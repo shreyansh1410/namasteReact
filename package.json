@@ -1,0 +1,25 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "react course by akshay saini",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyansh1410/namasteReact.git"
+  },
+  "author": "Shreyansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyansh1410/namasteReact/issues"
+  },
+  "homepage": "https://github.com/shreyansh1410/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
